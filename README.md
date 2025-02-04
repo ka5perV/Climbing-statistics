@@ -21,13 +21,13 @@ I will collect raw data from a survey conducted on https://www.reddit.com/r/clim
 
 ## Planned visualization
 
-![alt text](path)
+![alt text](https://github.com/ka5perV/Climbing-statistics/blob/main/img/PlannedChart.png)
 
 ## Why i chose this approach 
 I have chosen to use area charts to illustrate trends in climbing grades over time because they offer a clear depiction of climbing ability progression across different years. Additionally, I plan to use cards to summarize key values, simplifying the presentation of larger datasets. Pie charts will be employed when comparing or highlighting specific categories within the dataset, providing a concise visual comparison.
 
 ## Final product - PowerBI
 
-![alt text](path)
-![alt text](path)
+![alt text](https://github.com/ka5perV/Climbing-statistics/blob/main/img/Chart1.png)
+![alt text](https://github.com/ka5perV/Climbing-statistics/blob/main/img/Chart2.png)
 
